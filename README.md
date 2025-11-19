@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Autor
 Marcus Guedes
-https://www.linkedin.com/in/marcusguedes/
-https://github.com/MCLG1661
+Linkedin: https://www.linkedin.com/in/marcusguedes/
+GitHub: https://github.com/MCLG1661
 
 
