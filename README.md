@@ -14,3 +14,10 @@
 - 🔍 **Pesquisa Avançada** - Encontre artistas, músicas e álbuns
 - 📊 **Análise de Dados** - Estatísticas e insights musicais
 - 📚 **Base de Dados** - Enciclopédia musical completa
+
+## 👨‍💻 Autor
+Marcus Guedes
+https://www.linkedin.com/in/marcusguedes/
+https://github.com/MCLG1661
+
+
