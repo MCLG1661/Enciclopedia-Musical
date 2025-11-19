@@ -8,3 +8,9 @@
     Pesquisa Inteligente de Música
   </text>
 </svg>
+
+## 🚀 Funcionalidades
+
+- 🔍 **Pesquisa Avançada** - Encontre artistas, músicas e álbuns
+- 📊 **Análise de Dados** - Estatísticas e insights musicais
+- 📚 **Base de Dados** - Enciclopédia musical completa
