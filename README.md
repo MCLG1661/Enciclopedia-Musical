@@ -3,6 +3,8 @@
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6)
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6)
 
+![Logo](https://img.shields.io/badge/🎵_ENCICLOPÉDIA_MUSICAL-1E40AF?style=for-the-badge&logo=music&logoColor=white)
+
 <!-- Texto -->
   <text x="400" y="170" text-anchor="middle" font-family="Arial" font-size="16" fill="white" opacity="0.8">
     Pesquisa Inteligente de Música
