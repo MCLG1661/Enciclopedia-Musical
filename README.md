@@ -1,7 +1,5 @@
-![Enciclopédia Musical](https://raw.githubusercontent.com/manus-labs/static/main/music-encyclopedia.jpg )
-
 # Enciclopedia-Musical
-Pesquisa Inteligente de Música
+Um projeto dedicado a organizar e compartilhar conhecimento sobre música, gêneros e muito mais.
 
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
