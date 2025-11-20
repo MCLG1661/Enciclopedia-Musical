@@ -49,6 +49,6 @@ enciclopedia-musical/
 
 ## 👤 Autor
 Marcus Guedes
-GitHub: @MCLG1661
-LinkedIn: Marcus Guedes
+GitHub: https://github.com/MCLG1661
+LinkedIn: https://www.linkedin.com/in/marcusguedes
 
