@@ -1,5 +1,5 @@
 # Enciclopedia-Musical
-Um projeto dedicado a organizar e compartilhar conhecimento sobre música, gêneros e muito mais.
+Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, estilos musicais, bandas, festivais e a história da música através de uma interface moderna e intuitiva.
 
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
