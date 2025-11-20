@@ -1,4 +1,4 @@
-![Imagem Musical](https://cdn-icons-png.flaticon.com/512/2990/2990502.png)
+![Imagem Musical](https://cdn.pixabay.com/photo/2017/01/31/23/42/notes-2027663_1280.png)
 
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
