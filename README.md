@@ -1,7 +1,5 @@
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
-![Enciclopédia Musical](httpss://raw.githubusercontent.com/Manus-AI-Lab/static-assets/main/music-encyclopedia.jpg )
-
 
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6)
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6)
