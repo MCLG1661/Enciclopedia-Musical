@@ -1,4 +1,4 @@
-![Enciclopédia Musical Alternativa](https://plus.unsplash.com/premium_photo-1664303499352-248a4a5c812c?w=800 )
+![Enciclopédia Musical](https://user-images.githubusercontent.com/13633759/281357233-10a651f7-33f1-48f0-83f5-c52c23a2b8a2.jpeg )
 
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
