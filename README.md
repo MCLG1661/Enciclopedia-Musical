@@ -1,6 +1,5 @@
 # Enciclopedia-Musical
-Um projeto dedicado a organizar e compartilhar conhecimento sobre música, gêneros e muito mais.
-
+Pesquisa Inteligente de Música
 
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6)
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6)
@@ -9,7 +8,7 @@ Um projeto dedicado a organizar e compartilhar conhecimento sobre música, gêne
 
 <!-- Texto -->
   <text x="400" y="170" text-anchor="middle" font-family="Arial" font-size="16" fill="white" opacity="0.8">
-    Pesquisa Inteligente de Música 
+    Um projeto dedicado a organizar e compartilhar conhecimento sobre música, gêneros e muito mais
   </text>
 </svg>
 
