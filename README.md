@@ -1,4 +1,4 @@
-![Enciclopédia Musical](https://i.imgur.com/w3Y621h.jpeg )
+![Enciclopédia Musical](https://i.imgur.com/39MC9yL.jpeg )
 
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
