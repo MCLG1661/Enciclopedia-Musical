@@ -1,3 +1,5 @@
+![Enciclopédia Musical - Discos de Vinil](https://github.com/MCLG1661/Enciclopedia-Musical/blob/main/Gemini_Generated_Image_nx30xvnx30xvnx30.png)
+
 # Enciclopédia-Musical
 Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, estilos musicais, bandas, festivais e a história da música através de uma interface moderna e intuitiva.
 
