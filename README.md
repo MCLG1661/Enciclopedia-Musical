@@ -1,5 +1,3 @@
-![Enciclopédia Musical](https://raw.githubusercontent.com/manus-labs/static/main/music-encyclopedia.jpg )
-
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
 
