@@ -3,7 +3,9 @@
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6)
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6)
 
-![Capa da Enciclopédia Musical com discos de vinil coloridos](images/enciclopedia_musical_capa.png)
+<p align="center">
+  <img src="images/enciclopedia_musical_capa.png" alt="Capa da Enciclopédia Musical com discos de vinil coloridos" width="600"/>
+</p>
 
 <!-- Texto -->
   <text x="400" y="170" text-anchor="middle" font-family="Arial" font-size="16" fill="white" opacity="0.8">
