@@ -1,5 +1,9 @@
 # Enciclopedia-Musical
 
+![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6)
+![Music](https://img.shields.io/badge/Music-Research-3B82F6)
+![API](https://img.shields.io/badge/API-Search-EC4899)
+
   <!-- Ícone de música -->
   <text x="400" y="100" text-anchor="middle" font-family="Arial" font-size="48" fill="white">🎵</text>
   
