@@ -3,6 +3,9 @@
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6)
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6)
 ![API](https://img.shields.io/badge/API-Search-EC4899)
+![GitHub Repo Name](https://img.shields.io/badge/Repository-enciclopedia--musical-181717?logo=github)
+![Status](https://img.shields.io/badge/Status-Developing-yellow)
+
 
   <!-- Ícone de música -->
   <text x="400" y="100" text-anchor="middle" font-family="Arial" font-size="48" fill="white">🎵</text>
