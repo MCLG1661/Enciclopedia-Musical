@@ -7,6 +7,8 @@ Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, esti
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Gemini Generated](https://img.shields.io/badge/Gemini%20Generated-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
