@@ -1,4 +1,4 @@
-http://googleusercontent.com/image_generation_content/0
+![Imagem Musical](https://cdn-icons-png.flaticon.com/512/2990/2990502.png)
 
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
