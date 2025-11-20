@@ -18,7 +18,7 @@ Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, esti
 - 🎪 **Festivais Mundiais* - Coachella, Rock in Rio, Tomorrowland
 - 📻 **História Musical** - Décadas de 50 até os dias atuais
 
--## 🎯 Exemplos de Busca
+## 🎯 Exemplos de Busca
 
 - Por Década: "anos 60", "década de 80"
 - Por Estilo: "rock", "hip hop", "eletrônica"
