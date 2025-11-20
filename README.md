@@ -3,20 +3,26 @@ Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, esti
 
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white
 
 ## ✨ Funcionalidades
 
 - 🔍 **Pesquisa Avançada** - Pesquise por décadas, estilos musicais, bandas ou artistas
 - 📊 **Análise de Dados** - Estatísticas e insights musicais
 - 📚 **Base de Dados** - Informações sobre diversos gêneros musicais e artistas
+- ⚡ **Performance Otimizada** - Carregamento rápido e experiência fluida
 
 ## 🎼 Conteúdo Disponível
 
 - 🎸 **Bandas Históricas** - The Beatles, Queen, Nirvana e mais
 - 🎹 **Estilos Musicais** - Rock, Bossa Nova, Hip Hop, Eletrônica
-- 🎤 **Artistas & DJs* - Nacionais e internacionais
-- 🎪 **Festivais Mundiais* - Coachella, Rock in Rio, Tomorrowland
+- 🎤 **Artistas & DJs** - Nacionais e internacionais
+- 🎪 **Festivais Mundiais** - Coachella, Rock in Rio, Tomorrowland
 - 📻 **História Musical** - Décadas de 50 até os dias atuais
+- 🔍 **Explore os Resultados** - Clique nos cards para ver informações detalhadas
 
 ## 🎯 Exemplos de Busca
 
