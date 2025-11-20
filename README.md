@@ -1,5 +1,3 @@
-enciclopedia_musical_capa.png
-
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
 
