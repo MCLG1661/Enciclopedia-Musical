@@ -1,4 +1,4 @@
-# Enciclopedia-Musical
+# Enciclopédia-Musical
 Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, estilos musicais, bandas, festivais e a história da música através de uma interface moderna e intuitiva.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
