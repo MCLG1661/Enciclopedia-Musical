@@ -1,4 +1,4 @@
-![Enciclopédia Musical](https://i.imgur.com/39MC9yL.jpg )
+![Enciclopédia Musical](httpss://raw.githubusercontent.com/Manus-AI-Lab/static-assets/main/music-encyclopedia.jpg )
 
 # Enciclopedia-Musical
 Pesquisa Inteligente de Música
