@@ -1,0 +1,985 @@
+[
+{
+    "nome": "The Beatles",
+    "tipo": "Banda",
+    "genero": "Rock / Pop",
+    "decada": "60",
+    "descricao": "Banda de rock inglesa, formada em Liverpool em 1960. Considerada a mais influente de todos os tempos, seu repertório abrange desde o rock and roll até a música psicodélica.",
+    "relacionados": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Rock", "Década de 60"],
+    "ano": 1960,
+    "link": "https://pt.wikipedia.org/wiki/The_Beatles"
+},
+{
+    "nome": "Rock and Roll",
+    "tipo": "Estilo Musical",
+    "genero": "Rock and Roll",
+    "decada": "50",
+    "descricao": "Gênero musical que surgiu nos EUA no final dos anos 1940. Caracterizado por um ritmo forte, guitarras elétricas e uma atitude rebelde, influenciou profundamente a cultura jovem.",
+    "relacionados": ["Chuck Berry", "Elvis Presley", "Little Richard", "Década de 50"],
+    "ano": 1950,
+    "link": "https://pt.wikipedia.org/wiki/Rock_and_roll"
+},
+{
+    "nome":"Bossa Nova",
+    "tipo":"Estilo Musical",
+    "genero": "Bossa Nova / MPB",
+    "decada": "50",
+    "descricao":"Gênero musical brasileiro derivado do samba e com forte influência do jazz. Surgiu no final da década de 1950 no Rio de Janeiro, com harmonias sofisticadas e um ritmo suave.",
+    "relacionados":["João Gilberto", "Tom Jobim", "Vinicius de Moraes", "Samba", "Década de 50"],
+    "ano":1958
+},
+{
+    "nome":"Queen",
+    "tipo": "Banda",
+    "genero": "Rock / Glam Rock",
+    "decada": "70",
+    "descricao":"Banda britânica de rock, fundada em 1970. Famosa por sua diversidade musical, vocais poderosos de Freddie Mercury e apresentações energéticas. Hits incluem 'Bohemian Rhapsody' e 'We Will Rock You'.",
+    "relacionados":["Freddie Mercury", "Brian May", "Roger Taylor", "John Deacon", "Rock", "Década de 70"],
+    "ano":1970
+},
+{
+    "nome":"Hip Hop",
+    "tipo":"Estilo Musical",
+    "genero": "Hip Hop",
+    "decada": "70",
+    "descricao":"Movimento cultural e musical iniciado na década de 1970, em Nova Iorque. Engloba elementos como o rap (MCing), DJing, breakdance e graffiti. Suas letras frequentemente abordam questões sociais e políticas.",
+    "relacionados":["DJ Kool Herc", "Grandmaster Flash", "Afrika Bambaataa", "Década de 70"],
+    "ano":1973
+},
+{
+    "nome":"Nirvana",
+    "tipo": "Banda",
+    "genero": "Grunge / Rock Alternativo",
+    "decada": "90",
+    "descricao":"Banda de rock americana formada em 1987 que liderou o movimento grunge de Seattle. O álbum 'Nevermind' (1991) popularizou o rock alternativo e marcou a Geração X.",
+    "relacionados":["Kurt Cobain", "Krist Novoselic", "Dave Grohl", "Rock", "Década de 90"],
+    "ano":1987
+},
+{
+    "nome":"Daft Punk",
+    "tipo": "Banda",
+    "genero": "Eletrônica / House",
+    "decada": "90",
+    "descricao":"Duo francês de música eletrônica formado em Paris em 1993. Conhecidos por seus capacetes e por serem pioneiros no movimento French house, influenciaram massivamente a dance music.",
+    "relacionados":["Guy-Manuel de Homem-Christo", "Thomas Bangalter", "House", "Década de 90"],
+    "ano":1993
+},
+{
+    "nome":"Samba",
+    "tipo":"Estilo Musical",
+    "genero": "Samba / MPB",
+    "decada": "10",
+    "descricao":"Gênero musical brasileiro e expressão cultural, considerado um dos símbolos nacionais. Originou-se nas comunidades afro-brasileiras da Bahia no século XIX e se desenvolveu no Rio de Janeiro no início do século XX.",
+    "relacionados":["Cartola", "Nelson Cavaquinho", "Noel Rosa", "Zeca Pagodinho", "Bossa Nova"],
+    "ano":1910
+},
+{
+    "nome":"Arctic Monkeys",
+    "tipo": "Banda",
+    "genero": "Indie Rock / Pós-punk revival",
+    "decada": "2000",
+    "descricao":"Banda de rock inglesa formada em 2002. Foram uma das primeiras bandas a ganhar atenção do público através da internet. Seu som evoluiu do indie rock enérgico para estilos mais complexos e atmosféricos.",
+    "relacionados":["Alex Turner", "Jamie Cook", "Matt Helders", "Nick O'Malley", "Rock", "Década de 2000"],
+    "ano":2002
+},
+{
+    "nome":"Disco",
+    "tipo":"Estilo Musical",
+    "genero": "Disco",
+    "decada": "70",
+    "descricao":"Gênero de dance music que se originou no início dos anos 1970. Caracteriza-se por batidas four-on-the-floor, linhas de baixo sincopadas e arranjos de cordas e metais.",
+    "relacionados":["Donna Summer", "Bee Gees", "Earth, Wind & Fire", "Giorgio Moroder", "Década de 70"],
+    "ano":1974
+},
+{
+    "nome":"House",
+    "tipo":"Estilo Musical",
+    "genero": "House / Eletrônica",
+    "decada": "80",
+    "descricao":"Gênero de música eletrônica criado por DJs e produtores em Chicago no início dos anos 80. É caracterizado por um tempo em 4/4 e um bumbo proeminente em cada batida.",
+    "relacionados":["Frankie Knuckles", "Larry Levan", "Marshall Jefferson", "Daft Punk", "Década de 80"],
+    "ano":1983
+},
+{
+    "nome":"Pop Rock",
+    "tipo":"Estilo Musical",
+    "genero": "Pop Rock",
+    "decada": "70",
+    "descricao":"Um gênero de fusão que combina a energia e os riffs do rock com as melodias cativantes e a estrutura acessível da música pop. Tornou-se popular a partir dos anos 70.",
+    "relacionados":["Elton John", "U2", "Coldplay", "Maroon 5", "Rock", "Década de 70"],
+    "ano":1970
+},
+{
+    "nome":"Rock",
+    "tipo":"Estilo Musical",
+    "genero": "Rock",
+    "decada": "60",
+    "descricao":"Um amplo gênero de música popular que se originou como 'rock and roll' nos Estados Unidos na década de 1950 e se desenvolveu em uma variedade de estilos diferentes nas décadas de 1960 e posteriores.",
+    "relacionados":["The Rolling Stones", "Led Zeppelin", "Pink Floyd", "AC/DC", "Rock and Roll", "Década de 60"],
+    "ano":1965
+},
+{
+    "nome":"Rock Progressivo",
+    "tipo":"Estilo Musical",
+    "genero": "Rock Progressivo",
+    "decada": "70",
+    "descricao":"Subgênero do rock que se desenvolveu no final dos anos 1960, com influências da música clássica e do jazz. Caracteriza-se por composições longas, conceitos líricos e virtuosismo instrumental.",
+    "relacionados":["Pink Floyd", "Yes", "Genesis", "Rush", "Rock", "Década de 70"],
+    "ano":1969
+},
+{
+    "nome":"Rock Brasileiro",
+    "tipo":"Estilo Musical",
+    "genero": "Rock Brasileiro / MPB",
+    "decada": "60",
+    "descricao":"Termo que se refere ao rock feito no Brasil. Desde a Jovem Guarda até as bandas de rock alternativo, o gênero absorveu influências locais e criou uma identidade única.",
+    "relacionados":["Raul Seixas", "Legião Urbana", "Titãs", "Os Mutantes", "Rock", "Década de 60"],
+    "ano":1965
+},
+{
+    "nome":"Metal",
+    "tipo":"Estilo Musical",
+    "genero": "Metal / Rock",
+    "decada": "70",
+    "descricao":"Gênero do rock caracterizado por sons de guitarra altos e distorcidos, ritmos enfáticos, som de baixo e bateria densos e vocais vigorosos. Possui dezenas de subgêneros.",
+    "relacionados":["Black Sabbath", "Iron Maiden", "Metallica", "Judas Priest", "Rock", "Década de 70"],
+    "ano":1970
+},
+{
+    "nome":"Reggae",
+    "tipo":"Estilo Musical",
+    "genero": "Reggae",
+    "decada": "60",
+    "descricao":"Gênero musical desenvolvido na Jamaica no final da década de 1960. Embora por vezes usado num sentido mais amplo para se referir à maior parte dos tipos de música jamaicana, o termo reggae denota um estilo particular que se originou do desenvolvimento do ska e do rocksteady.",
+    "relacionados":["Bob Marley", "Peter Tosh", "Jimmy Cliff", "Toots and the Maytals", "Década de 60"],
+    "ano":1968
+},
+{
+    "nome":"Drum and Bass",
+    "tipo":"Estilo Musical",
+    "genero": "Drum and Bass / Eletrônica",
+    "decada": "90",
+    "descricao":"Gênero de música eletrônica caracterizado por breakbeats rápidos (tipicamente 160-180 bpm) com linhas de baixo pesadas e sub-graves. Surgiu na Inglaterra no início dos anos 90.",
+    "relacionados":["Goldie", "Roni Size", "Andy C", "Pendulum", "DJ Marky", "Década de 90"],
+    "ano":1992
+},
+{
+    "nome":"Nu Disco",
+    "tipo":"Estilo Musical",
+    "genero": "Nu Disco / Eletrônica",
+    "decada": "2000",
+    "descricao":"Gênero musical do século XXI ligado à renovação do interesse pela disco music dos anos 70 e 80. Combina elementos da disco com sons mais modernos da música eletrônica, como house e synth-pop.",
+    "relacionados":["Todd Terje", "Lindstrøm", "Chromeo", "Breakbot", "Disco", "Década de 2000"],
+    "ano":2002
+},
+{
+    "nome": "DJ Memê",
+    "tipo": "DJ",
+    "genero": "House / Disco",
+    "decada": "90",
+    "descricao": "Um dos pioneiros da house music no Brasil, conhecido por seus remixes de sucesso que dominaram as rádios e pistas nos anos 90 e 2000, ajudando a popularizar a dance music no país.",
+    "nome_real": "Marcelo Mansur",
+    "relacionados": ["House", "Disco", "Década de 90"],
+    "ano": 1995
+},
+{
+    "nome": "DJ Marky",
+    "tipo": "DJ",
+    "genero": "Drum and Bass",
+    "decada": "90",
+    "descricao": "DJ e produtor brasileiro, um dos maiores nomes do Drum and Bass no mundo. Conhecido por sua técnica apurada e sets energéticos que o levaram a palcos internacionais.",
+    "nome_real": "Marco Antonio da Silva",
+    "relacionados": ["Drum and Bass", "Década de 90"],
+    "ano":1992
+},
+{
+    "nome": "Alok",
+    "tipo": "DJ",
+    "genero": "Brazilian Bass / Pop",
+    "decada": "2010",
+    "descricao": "DJ e produtor musical brasileiro, um dos maiores nomes da cena eletrônica mundial. Criador do subgênero 'Brazilian Bass', é conhecido por hits como 'Hear Me Now'.",
+    "nome_real": "Alok Petrillo",
+    "relacionados": ["Bhaskar", "Brazilian Bass", "Década de 2010"],
+    "ano":2010
+},
+{
+    "nome": "Bhaskar",
+    "tipo": "DJ",
+    "genero": "Brazilian Bass / Tech House",
+    "decada": "2010",
+    "descricao": "DJ e produtor, irmão gêmeo de Alok. Com um som que transita entre o tech house e o progressive house, é um dos fundadores do festival Universo Paralello.",
+    "nome_real": "Bhaskar Petrillo",
+    "relacionados": ["Alok", "Brazilian Bass", "Década de 2010"],
+    "ano":2010
+},
+{
+    "nome": "Cat Dealers",
+    "tipo": "DJ",
+    "genero": "Brazilian Bass / Pop",
+    "decada": "2010",
+    "descricao": "Duo de DJs e produtores formado pelos irmãos Lugui e Pedrão. Conquistaram o cenário nacional e internacional com seu som cativante que mistura elementos do pop com o brazilian bass.",
+    "nome_real": "Luiz Guilherme e Pedro Henrique",
+    "relacionados": ["Brazilian Bass", "Década de 2010"],
+    "ano":2016
+},
+{
+    "nome": "Vintage Culture",
+    "tipo": "DJ",
+    "genero": "House / Melodic House",
+    "decada": "2010",
+    "descricao": "DJ e produtor brasileiro que se tornou um fenômeno global. Seu estilo único funde big room, deep house e nu disco, criando hits e remixes que dominam as paradas e festivais de música eletrônica.",
+    "nome_real": "Lukas Ruiz",
+    "relacionados": ["House", "Nu Disco", "Década de 2010"],
+    "ano":2013
+},
+{
+    "nome": "Mochakk",
+    "tipo": "DJ",
+    "genero": "Tech House / House",
+    "decada": "2020",
+    "descricao": "Jovem DJ e produtor brasileiro que explodiu na cena global com sua energia contagiante e sets de tech house com forte influência de hip-hop e soul. Conhecido por sua presença de palco performática.",
+    "nome_real": "Pedro Maia",
+    "relacionados": ["House", "Hip Hop", "Soul Music"],
+    "ano":2020
+},
+{
+    "nome": "Dubdogz",
+    "tipo": "DJ",
+    "genero": "Brazilian Bass / House",
+    "decada": "2010",
+    "descricao": "Duo de DJs e produtores brasileiros formado pelos irmãos gêmeos Marcos e Lucas. São um dos grandes nomes do 'Brazilian Bass', conhecidos por seus sets energéticos e produções que conquistaram o Brasil e o mundo.",
+    "nome_real": "Marcos e Lucas Schmidt",
+    "relacionados": ["Brazilian Bass", "House", "Década de 2010"],
+    "ano": 2016,
+    "link": "https://pt.wikipedia.org/wiki/Dubdogz"
+},
+{
+    "nome": "Fatboy Slim",
+    "tipo": "DJ",
+    "genero": "Big Beat / Eletrônica",
+    "decada": "90",
+    "descricao": "DJ e produtor britânico que foi um dos pioneiros do gênero big beat nos anos 90. Conhecido por hits globais como 'The Rockafeller Skank' e 'Praise You', e por seus sets energéticos e divertidos.",
+    "nome_real": "Norman Cook",
+    "relacionados": ["Década de 90"],
+    "ano":1996
+},
+{
+    "nome": "Erick Morillo",
+    "tipo": "DJ",
+    "genero": "House",
+    "decada": "90",
+    "descricao": "DJ e produtor colombo-americano, conhecido mundialmente pelo hit 'I Like to Move It' sob o nome Reel 2 Real. Foi uma figura central na cena house global por décadas, dono do selo Subliminal Records.",
+    "nome_real": "Erick Morillo",
+    "relacionados": ["House", "Década de 90"],
+    "ano":1993
+},
+{
+    "nome": "David Morales",
+    "tipo": "DJ",
+    "genero": "House",
+    "decada": "80",
+    "descricao": "DJ e produtor americano, vencedor do Grammy. É uma lenda da house music, conhecido por seus remixes para grandes artistas como Mariah Carey e Michael Jackson, e por sua longa residência em clubes de Ibiza.",
+    "nome_real": "David Morales",
+    "relacionados": ["House", "Década de 80"],
+    "ano":1989
+},
+{
+    "nome": "Joey Negro",
+    "tipo": "DJ",
+    "genero": "Disco / House / Nu Disco",
+    "decada": "90",
+    "descricao": "DJ e produtor britânico, também conhecido como Dave Lee. É uma das figuras mais respeitadas na cena disco e house, famoso por suas compilações e produções que revitalizaram o interesse pela disco music.",
+    "nome_real": "Dave Lee",
+    "relacionados": ["Disco", "House", "Nu Disco", "Década de 90"],
+    "ano":1990
+},
+{
+    "nome": "Dimitri From Paris",
+    "tipo": "DJ",
+    "genero": "Disco / House",
+    "decada": "90",
+    "descricao": "DJ e produtor francês de ascendência grega. É conhecido por seus remixes e re-edits de clássicos da disco e funk, além de suas compilações elegantes, como a série 'A Night at the Playboy Mansion'.",
+    "nome_real": "Dimitris Yerasimos",
+    "relacionados": ["Disco", "House", "Funk (USA)", "Década de 90"],
+    "ano":1996
+},
+{
+    "nome": "Purple Disco Machine",
+    "tipo": "DJ",
+    "genero": "Nu Disco / Disco House",
+    "decada": "2000",
+    "descricao": "DJ e produtor alemão que se tornou um dos maiores nomes do nu-disco. Conhecido por seu som que mistura disco clássica com house moderna, e por remixes de sucesso para artistas como Dua Lipa e Lady Gaga.",
+    "nome_real": "Tino Piontek",
+    "relacionados": ["Nu Disco", "Disco", "House", "Década de 2000"],
+    "ano":2009
+},
+{
+    "nome": "Carl Cox",
+    "tipo": "DJ",
+    "genero": "Techno / House",
+    "decada": "80",
+    "descricao": "Lendário DJ e produtor britânico, um dos embaixadores globais do techno e da house music. Famoso por sua técnica com três ou mais toca-discos e sua energia contagiante, com a frase 'Oh yes, oh yes!'.",
+    "nome_real": "Carl Cox",
+    "relacionados": ["House", "Década de 80"],
+    "ano":1985
+},
+{
+    "nome": "David Guetta",
+    "tipo": "DJ",
+    "genero": "Pop / EDM",
+    "decada": "2000",
+    "descricao": "DJ e produtor francês que foi fundamental para a explosão da EDM (Electronic Dance Music) no cenário pop global no final dos anos 2000, com parcerias de sucesso com artistas como The Black Eyed Peas e Sia.",
+    "nome_real": "Pierre David Guetta",
+    "relacionados": ["Pop Rock", "Década de 2000"],
+    "ano":2002
+},
+{
+    "nome": "Calvin Harris",
+    "tipo": "DJ",
+    "genero": "Pop / EDM / Nu Disco",
+    "decada": "2000",
+    "descricao": "DJ, produtor e cantor escocês. Um dos artistas mais bem-sucedidos da história da música eletrônica, transitando do electro-pop e nu-disco para a EDM, com inúmeros hits globais e colaborações.",
+    "nome_real": "Adam Richard Wiles",
+    "relacionados": ["Pop Rock", "Nu Disco", "Década de 2000"],
+    "ano":2007
+},
+{
+    "nome": "John Morales",
+    "tipo": "DJ",
+    "genero": "Disco / Pós-Disco",
+    "decada": "70",
+    "descricao": "Lendário DJ e produtor do Bronx, pioneiro na arte do remix. Junto com Sergio Munzibai, formou a dupla M+M, criando versões estendidas e re-edits que se tornaram padrão na disco music e influenciaram toda a dance music.",
+    "nome_real": "John Morales",
+    "relacionados": ["Disco", "Década de 70"],
+    "ano":1975
+},
+{
+    "nome": "Big Boy",
+    "tipo": "DJ",
+    "genero": "Rádio / Rock / Soul",
+    "decada": "70",
+    "descricao": "Considerado um dos mais importantes e influentes DJs e radialistas da história do Brasil. Foi um pioneiro na divulgação do rock e da soul music no país, com programas de rádio que marcaram época.",
+    "nome_real": "Newton Alvarenga Duarte",
+    "relacionados": ["Rock", "Soul Music", "Década de 70"],
+    "ano":1970
+},
+{
+    "nome": "Ademir Lemos",
+    "tipo": "DJ",
+    "genero": "Soul / Funk",
+    "decada": "70",
+    "descricao": "Um dos principais nomes dos bailes de soul e funk do Rio de Janeiro, sendo uma figura central em equipes de som como a Soul Grand Prix. Ajudou a definir a cultura dos bailes na cidade.",
+    "nome_real": "Ademir Lemos",
+    "relacionados": ["Soul Music", "Funk (USA)", "Década de 70"],
+    "ano":1976
+},
+{
+    "nome": "Cidinho Cambalhota",
+    "tipo": "DJ",
+    "genero": "Soul / Funk",
+    "decada": "70",
+    "descricao": "Lendário DJ dos bailes de soul e funk do Rio de Janeiro, conhecido por sua habilidade e por animar multidões com sua seleção musical nos anos 70 e 80.",
+    "nome_real": "Cidinho",
+    "relacionados": ["Soul Music", "Funk (USA)", "Década de 70"],
+    "ano":1977
+},
+{
+    "nome": "DJ Corello",
+    "tipo": "DJ",
+    "genero": "Soul / Funk",
+    "decada": "70",
+    "descricao": "Um dos DJs mais influentes da cena black de São Paulo. Fundador da equipe de som Chic Show, foi responsável por organizar alguns dos maiores e mais importantes bailes do Brasil.",
+    "nome_real": "Luiz Alberto",
+    "relacionados": ["Soul Music", "Funk (USA)", "Década de 70"],
+    "ano":1974
+},
+{
+    "nome": "DJ Edinho",
+    "tipo": "DJ",
+    "genero": "Rock / Industrial",
+    "decada": "90",
+    "descricao": "DJ residente e um dos criadores da icônica festa Alien Nation em São Paulo. Conhecido por seus sets de rock industrial, EBM e post-punk, foi uma figura central na cena alternativa e underground dos anos 90.",
+    "nome_real": "Edson Prado",
+    "relacionados": ["Rock", "Década de 90"],
+    "ano":1992
+},
+{
+    "nome": "Paulão Black Power",
+    "tipo": "DJ",
+    "genero": "Soul / Funk / Black Music",
+    "decada": "70",
+    "descricao": "Lendário DJ e um dos fundadores da equipe de som Black Power, que marcou época nos bailes de black music em São Paulo, especialmente nos anos 70 e 80, promovendo a cultura soul e funk.",
+    "nome_real": "Paulo Alberto",
+    "relacionados": ["Soul Music", "Funk (USA)", "Década de 70"],
+    "ano":1970
+},
+{
+    "nome": "Alexandre Montet",
+    "tipo": "DJ",
+    "genero": "House / Disco",
+    "decada": "90",
+    "descricao": "DJ e produtor brasileiro com uma longa carreira, conhecido por sua técnica apurada e sets que transitam entre o house, disco e funk. Figura respeitada na cena eletrônica nacional.",
+    "nome_real": "Alexandre Montet",
+    "relacionados": ["House", "Disco", "Funk (USA)", "Década de 90"],
+    "ano":1990
+},
+{
+    "nome": "Thaíde",
+    "tipo": "Artista",
+    "genero": "Rapper / Hip Hop",
+    "decada": "80",
+    "descricao": "Um dos pioneiros do rap nacional, Thaíde é rapper, apresentador e DJ. Ao lado de DJ Hum, formou uma das duplas mais importantes do hip hop brasileiro, com letras que retratam a realidade social.",
+    "nome_real": "Altair Gonçalves",
+    "relacionados": ["Hip Hop", "Década de 80"],
+    "ano":1987
+},
+{
+    "nome": "Michel Noia",
+    "tipo": "DJ",
+    "genero": "House / Techno",
+    "decada": "90",
+    "descricao": "DJ e produtor brasileiro com uma carreira consolidada na cena eletrônica. Conhecido por seus sets de house e techno, com passagens por diversos clubes e festivais importantes.",
+    "nome_real": "Michel Noia",
+    "relacionados": ["House", "Década de 90"],
+    "ano":1995
+},
+{
+    "nome": "Mano Brown",
+    "tipo": "Artista",
+    "genero": "Rapper / Hip Hop",
+    "decada": "80",
+    "descricao": "Líder e principal letrista do grupo Racionais MC's. Considerado um dos maiores e mais influentes rappers do Brasil, suas letras abordam questões sociais, racismo e a vida na periferia.",
+    "nome_real": "Pedro Paulo Soares Pereira",
+    "relacionados": ["Racionais MC's", "Hip Hop", "Década de 80"],
+    "ano":1988
+},
+{
+    "nome":"Racionais MC's",
+    "tipo": "Banda",
+    "genero": "Hip Hop / Rap",
+    "decada": "90",
+    "descricao":"Grupo de rap brasileiro formado em São Paulo em 1988. Composto por Mano Brown, Ice Blue, Edi Rock e KL Jay, é o grupo de rap mais influente do Brasil, com letras que denunciam a desigualdade social e o racismo.",
+    "relacionados":["Mano Brown", "Ice Blue", "Edi Rock", "KL Jay", "Hip Hop", "Década de 90"],
+    "ano":1988
+},
+{
+    "nome": "Coachella",
+    "tipo": "Festival",
+    "genero": "Diversos",
+    "decada": "90",
+    "descricao": "Festival anual de música e arte realizado no deserto da Califórnia. Conhecido por seu line-up diversificado que inclui rock, indie, hip hop e música eletrônica, além de instalações de arte.",
+    "relacionados": ["Rock", "Hip Hop", "Década de 90"],
+    "ano": 1999,
+    "link": "https://pt.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+},
+{
+    "nome": "Glastonbury",
+    "tipo": "Festival",
+    "genero": "Rock, Pop, Eletrônica, World Music",
+    "decada": "70",
+    "descricao": "Um dos maiores e mais famosos festivais do mundo, conhecido por sua enorme diversidade musical, artes cênicas, circo e uma forte cultura de ativismo. Acontece em uma fazenda na Inglaterra.",
+    "relacionados": ["Rock", "Pop Rock", "Década de 70"],
+    "ano":1970
+},
+{
+    "nome": "Tomorrowland",
+    "tipo": "Festival",
+    "genero": "EDM, House, Techno, Trance",
+    "decada": "2000",
+    "descricao": "Um dos maiores festivais de música eletrônica do mundo, realizado na Bélgica. Famoso por sua produção elaborada, palcos fantásticos e um line-up que reúne os maiores DJs do planeta.",
+    "relacionados": ["House", "Década de 2000"],
+    "ano":2005
+},
+{
+    "nome": "Lollapalooza",
+    "tipo": "Festival",
+    "genero": "Rock Alternativo, Pop, Indie, Hip Hop",
+    "decada": "90",
+    "descricao": "Festival de música alternativa, rock, punk rock, heavy metal e hip hop. Criado por Perry Farrell, começou como um evento itinerante e hoje tem edições em várias cidades do mundo, incluindo São Paulo.",
+    "relacionados": ["Rock", "Hip Hop", "Década de 90"],
+    "ano":1991
+},
+{
+    "nome": "Rock in Rio",
+    "tipo": "Festival",
+    "genero": "Rock, Pop, Heavy Metal, MPB",
+    "decada": "80",
+    "descricao": "Um dos maiores festivais de música do mundo, originário do Rio de Janeiro. Conhecido por atrair grandes nomes do rock e do pop mundial, expandiu-se para outras cidades como Lisboa, Madrid e Las Vegas.",
+    "relacionados": ["Rock", "Metal", "Pop Rock", "Década de 80"],
+    "ano":1985
+},
+{
+    "nome": "Woodstock",
+    "tipo": "Festival",
+    "genero": "Rock Psicodélico, Folk, Blues Rock",
+    "decada": "60",
+    "descricao": "Festival de música icônico que se tornou um marco da contracultura dos anos 60. Anunciado como 'Três Dias de Paz e Música', reuniu meio milhão de pessoas e apresentações lendárias.",
+    "relacionados": ["Rock", "Blues", "Década de 60"],
+    "ano":1969
+},
+{
+    "nome": "Primavera Sound",
+    "tipo": "Festival",
+    "genero": "Indie, Rock Alternativo, Eletrônica",
+    "decada": "2000",
+    "descricao": "Festival de música realizado em Barcelona, conhecido por seu line-up eclético e focado em música independente e alternativa, mas que também abrange pop, rock, eletrônica e hip hop.",
+    "relacionados": ["Rock", "Pop Rock", "Década de 2000"],
+    "ano":2001
+},
+{
+    "nome": "Fuji Rock Festival",
+    "tipo": "Festival",
+    "genero": "Rock, Eletrônica, Pop",
+    "decada": "90",
+    "descricao": "O maior festival de música ao ar livre do Japão, realizado em uma estação de esqui. Conhecido por sua organização impecável, belas paisagens e um line-up diversificado de artistas japoneses e internacionais.",
+    "relacionados": ["Rock", "Pop Rock", "Década de 90"],
+    "ano":1997
+},
+{
+    "nome": "Década de 60",
+    "tipo": "Década",
+    "genero": "Rock Psicodélico, Soul, Bossa Nova, Jovem Guarda",
+    "decada": "60",
+    "descricao": "Uma década de revolução cultural e musical. Viu a explosão da Invasão Britânica com The Beatles, o auge da Motown, o surgimento do rock psicodélico e a consolidação da Bossa Nova e da Jovem Guarda no Brasil.",
+    "relacionados": ["The Beatles", "Bob Dylan", "Jimi Hendrix", "Elis Regina", "Roberto Carlos", "Rock", "Soul Music", "Bossa Nova"],
+    "ano": 1960
+},
+{
+    "nome": "Década de 70",
+    "tipo": "Década",
+    "genero": "Rock Progressivo, Disco, Punk Rock, Funk",
+    "decada": "70",
+    "descricao": "Marcada pela diversidade, a década de 70 viu o auge do rock progressivo e do hard rock, o nascimento da Disco Music que dominou as pistas de dança, e o surgimento do movimento Punk Rock como uma resposta contracultural.",
+    "relacionados": ["Led Zeppelin", "Pink Floyd", "Queen", "Donna Summer", "Sex Pistols", "Rock Progressivo", "Disco", "Funk (USA)"],
+    "ano": 1970
+},
+{
+    "nome": "Década de 80",
+    "tipo": "Década",
+    "genero": "Pop, New Wave, Pós-punk, Rock Brasileiro",
+    "decada": "80",
+    "descricao": "A era de ouro do Pop, com Michael Jackson e Madonna como reis. A MTV revolucionou a indústria com os videoclipes. O New Wave e o Pós-punk trouxeram novas sonoridades, e o Brasil viu a explosão do BRock.",
+    "relacionados": ["Michael Jackson", "Madonna", "The Smiths", "U2", "Legião Urbana", "Pop Rock", "Rock Brasileiro"],
+    "ano": 1980
+},
+{
+    "nome": "Década de 90",
+    "tipo": "Década",
+    "genero": "Grunge, Rock Alternativo, Hip Hop, Dance Music",
+    "decada": "90",
+    "descricao": "O Grunge de Seattle redefiniu o rock com bandas como Nirvana. O Hip Hop consolidou-se como uma força global. A Dance Music eletrônica ganhou popularidade massiva nas raves e clubes.",
+    "relacionados": ["Nirvana", "Pearl Jam", "Racionais MC's", "Daft Punk", "Spice Girls", "Rock", "Hip Hop", "House"],
+    "ano": 1990
+},
+{
+    "nome": "Década de 2000",
+    "tipo": "Década",
+    "genero": "Indie Rock, Pop Punk, R&B Contemporâneo, Nu Metal",
+    "decada": "2000",
+    "descricao": "A internet transformou a distribuição e o consumo de música. O Indie Rock ganhou força com bandas como The Strokes, o Pop Punk dominou as rádios e o R&B e o Hip Hop continuaram a crescer em popularidade global.",
+    "relacionados": ["The Strokes", "Eminem", "Beyoncé", "Linkin Park", "Coldplay", "Arctic Monkeys", "R&B", "Hip Hop"],
+    "ano": 2000
+},
+{
+    "nome": "Forró",
+    "tipo": "Estilo Musical",
+    "genero": "Forró / Música Regional Brasileira",
+    "decada": "40",
+    "descricao": "Gênero musical e dança popular do Nordeste do Brasil. Caracterizado pela sanfona, zabumba e triângulo, suas letras retratam a vida e a cultura do sertão.",
+    "relacionados": ["Luiz Gonzaga", "Dominguinhos", "Jackson do Pandeiro", "Alceu Valença"],
+    "ano": 1940
+},
+{
+    "nome": "Sertanejo",
+    "tipo": "Estilo Musical",
+    "genero": "Sertanejo / Música Regional Brasileira",
+    "decada": "20",
+    "descricao": "Gênero musical brasileiro, originalmente conhecido como música caipira. Evoluiu do sertanejo raiz, com violas e letras sobre a vida no campo, para o sertanejo universitário moderno.",
+    "relacionados": ["Tonico e Tinoco", "Chitãozinho & Xororó", "Leandro & Leonardo", "Zezé Di Camargo & Luciano", "Moda de Viola"],
+    "ano": 1920
+},
+{
+    "nome": "Funk (USA)",
+    "tipo": "Estilo Musical",
+    "genero": "Funk / Soul",
+    "decada": "60",
+    "descricao": "Gênero musical que se originou nos Estados Unidos na década de 1960, com músicos afro-americanos. Caracteriza-se por um ritmo sincopado, forte linha de baixo e ênfase na primeira nota de cada compasso.",
+    "relacionados": ["James Brown", "Sly & the Family Stone", "Parliament-Funkadelic", "Earth, Wind & Fire", "Soul Music", "Década de 60"],
+    "ano": 1965
+},
+{
+    "nome": "Brega",
+    "tipo": "Estilo Musical",
+    "genero": "Brega / Música Popular Brasileira",
+    "decada": "60",
+    "descricao": "Gênero musical popular brasileiro, frequentemente associado a um estilo romântico e dramático. Suas letras abordam temas como amor, traição e desilusões de forma exagerada.",
+    "relacionados": ["Reginaldo Rossi", "Waldick Soriano", "Falcão", "Wanderley Andrade"],
+    "ano": 1960
+},
+{
+    "nome": "Vanerão",
+    "tipo": "Estilo Musical",
+    "genero": "Música Gaúcha / Regional",
+    "decada": "80",
+    "descricao": "Ritmo de dança típico do Rio Grande do Sul, derivado da habanera. É uma das danças mais populares nos bailes gaúchos, com um ritmo rápido e marcado pela sanfona.",
+    "relacionados": ["Os Serranos", "Os Monarcas", "Tchê Garotos", "Grupo Tradição"],
+    "ano": 1980
+},
+{
+    "nome": "Blues",
+    "tipo": "Estilo Musical",
+    "genero": "Blues",
+    "decada": "1890",
+    "descricao": "Gênero musical vocal e instrumental que se originou em comunidades afro-americanas no sul dos Estados Unidos no final do século XIX. É a base para muitos outros gêneros, como jazz, R&B e rock and roll.",
+    "relacionados": ["B.B. King", "Muddy Waters", "John Lee Hooker", "Robert Johnson", "Rock and Roll", "R&B", "Soul Music"],
+    "ano": 1890
+},
+{
+    "nome": "Moda de Viola",
+    "tipo": "Estilo Musical",
+    "genero": "Sertanejo Raiz / Música Caipira",
+    "decada": "20",
+    "descricao": "Expressão da música caipira e sertaneja raiz, caracterizada pelo som da viola caipira e letras que contam histórias e causos da vida no interior do Brasil.",
+    "relacionados": ["Tião Carreiro & Pardinho", "Almir Sater", "Renato Teixeira", "Pena Branca & Xavantinho", "Sertanejo"],
+    "ano": 1920
+},
+{
+    "nome": "Soul Music",
+    "tipo": "Estilo Musical",
+    "genero": "Soul / R&B",
+    "decada": "60",
+    "descricao": "Gênero musical popular que se originou nos Estados Unidos no final dos anos 1950 e início dos anos 1960. Combina elementos de R&B, gospel e jazz, e é caracterizado por vocais apaixonados e emotivos.",
+    "relacionados": ["James Brown", "Aretha Franklin", "Ray Charles", "Sam Cooke", "Otis Redding", "R&B", "Funk (USA)", "Década de 60"],
+    "ano": 1958
+},
+{
+    "nome": "R&B",
+    "tipo": "Estilo Musical",
+    "genero": "R&B / Rhythm and Blues",
+    "decada": "40",
+    "descricao": "Rhythm and Blues, comumente abreviado como R&B, é um gênero de música popular que se originou nas comunidades afro-americanas na década de 1940. O termo foi originalmente usado por gravadoras para descrever gravações comercializadas predominantemente para afro-americanos.",
+    "relacionados": ["Ray Charles", "Etta James", "Stevie Wonder", "Marvin Gaye", "Whitney Houston", "Blues", "Soul Music"],
+    "ano": 1948
+}
+,
+{
+    "nome": "John Lennon",
+    "tipo": "Artista",
+    "descricao": "Músico, cantor e compositor inglês que alcançou fama mundial como co-fundador, vocalista e guitarrista rítmico da banda The Beatles, uma das mais influentes da história.",
+    "relacionados": ["The Beatles", "Década de 60"],
+    "ano": 1940,
+    "link": "https://pt.wikipedia.org/wiki/John_Lennon"
+},
+{
+    "nome": "Paul McCartney",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor, multi-instrumentista e produtor musical britânico. Ganhou fama mundial como baixista e vocalista dos Beatles, formando uma das parcerias de composição mais bem-sucedidas da história com John Lennon.",
+    "relacionados": ["The Beatles", "Década de 60"],
+    "ano": 1942,
+    "link": "https://pt.wikipedia.org/wiki/Paul_McCartney"
+},
+{
+    "nome": "George Harrison",
+    "tipo": "Artista",
+    "descricao": "Guitarrista, cantor, compositor e produtor musical inglês, mais conhecido como o guitarrista principal dos Beatles. Introduziu influências da música indiana no rock ocidental.",
+    "relacionados": ["The Beatles", "Década de 60"],
+    "ano": 1943,
+    "link": "https://pt.wikipedia.org/wiki/George_Harrison"
+},
+{
+    "nome": "Ringo Starr",
+    "tipo": "Artista",
+    "descricao": "Músico, cantor, compositor e ator inglês, mais conhecido como o baterista dos Beatles. Sua bateria inovadora e estilo consistente foram cruciais para o som da banda.",
+    "relacionados": ["The Beatles", "Década de 60"],
+    "ano": 1940,
+    "link": "https://pt.wikipedia.org/wiki/Ringo_Starr"
+},
+{
+    "nome": "Chuck Berry",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor e guitarrista americano, um dos pioneiros do rock and roll. Suas performances de palco e riffs de guitarra definiram o gênero e influenciaram gerações de músicos.",
+    "relacionados": ["Rock and Roll", "Década de 50"],
+    "ano": 1926,
+    "link": "https://pt.wikipedia.org/wiki/Chuck_Berry"
+},
+{
+    "nome": "Elvis Presley",
+    "tipo": "Artista",
+    "descricao": "Cantor e ator americano, apelidado de 'o Rei do Rock and Roll'. É considerado uma das figuras culturais mais significativas do século XX, popularizando o rock and roll em escala global.",
+    "relacionados": ["Rock and Roll", "Década de 50"],
+    "ano": 1935,
+    "link": "https://pt.wikipedia.org/wiki/Elvis_Presley"
+},
+{
+    "nome": "Little Richard",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor e pianista americano, figura fundamental na transição do R&B para o rock and roll. Sua música energética e presença de palco extravagante o tornaram um ícone.",
+    "relacionados": ["Rock and Roll", "Década de 50", "R&B"],
+    "ano": 1932,
+    "link": "https://pt.wikipedia.org/wiki/Little_Richard"
+},
+{
+    "nome": "João Gilberto",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor e violonista brasileiro, considerado o pai da Bossa Nova. Sua batida de violão única e canto suave revolucionaram a música brasileira.",
+    "relacionados": ["Bossa Nova", "Década de 50"],
+    "ano": 1931,
+    "link": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Gilberto"
+},
+{
+    "nome": "Tom Jobim",
+    "tipo": "Artista",
+    "descricao": "Compositor, maestro, pianista, cantor e arranjador brasileiro. É um dos maiores expoentes da música brasileira e um dos criadores da Bossa Nova, autor de clássicos como 'Garota de Ipanema'.",
+    "relacionados": ["Bossa Nova", "Década de 50"],
+    "ano": 1927,
+    "link": "https://pt.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim"
+},
+{
+    "nome": "Vinicius de Moraes",
+    "tipo": "Artista",
+    "descricao": "Poeta, dramaturgo, jornalista e compositor brasileiro. Conhecido como 'O Poetinha', foi um parceiro fundamental de Tom Jobim na criação de muitas das canções mais icônicas da Bossa Nova.",
+    "relacionados": ["Bossa Nova", "Década de 50"],
+    "ano": 1913,
+    "link": "https://pt.wikipedia.org/wiki/Vinicius_de_Moraes"
+},
+{
+    "nome": "Freddie Mercury",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor e produtor musical britânico, conhecido como o vocalista da banda de rock Queen. É considerado um dos maiores vocalistas da história do rock, famoso por sua presença de palco extravagante.",
+    "relacionados": ["Queen", "Década de 70"],
+    "ano": 1946,
+    "link": "https://pt.wikipedia.org/wiki/Freddie_Mercury"
+},
+{
+    "nome": "Brian May",
+    "tipo": "Artista",
+    "descricao": "Músico, cantor, compositor e astrofísico inglês. É mais conhecido como o guitarrista da banda Queen, famoso por seu som de guitarra único, criado com sua guitarra 'Red Special'.",
+    "relacionados": ["Queen", "Década de 70"],
+    "ano": 1947,
+    "link": "https://pt.wikipedia.org/wiki/Brian_May"
+},
+{
+    "nome": "Roger Taylor",
+    "tipo": "Artista",
+    "descricao": "Músico, cantor e compositor inglês, mais conhecido como o baterista da banda Queen. Além da bateria, contribuiu com vocais e composições para a banda.",
+    "relacionados": ["Queen", "Década de 70"],
+    "ano": 1949,
+    "link": "https://pt.wikipedia.org/wiki/Roger_Taylor_(baterista)"
+},
+{
+    "nome": "John Deacon",
+    "tipo": "Artista",
+    "descricao": "Músico inglês, mais conhecido como o baixista da banda Queen. Compositor de vários hits da banda, como 'Another One Bites the Dust' e 'I Want to Break Free'.",
+    "relacionados": ["Queen", "Década de 70"],
+    "ano": 1951,
+    "link": "https://pt.wikipedia.org/wiki/John_Deacon"
+},
+{
+    "nome": "DJ Kool Herc",
+    "tipo": "Artista",
+    "descricao": "DJ jamaicano-americano creditado como o pioneiro do Hip Hop na década de 1970 no Bronx, Nova York. Sua técnica de isolar e repetir os 'breaks' das músicas foi fundamental para o gênero.",
+    "relacionados": ["Hip Hop", "Década de 70"],
+    "ano": 1955,
+    "link": "https://pt.wikipedia.org/wiki/DJ_Kool_Herc"
+},
+{
+    "nome": "Grandmaster Flash",
+    "tipo": "Artista",
+    "descricao": "DJ e produtor musical barbadiano-americano. É considerado um dos pioneiros do Hip Hop, desenvolvendo técnicas de DJ como o 'cutting', 'backspinning' e 'phasing'.",
+    "relacionados": ["Hip Hop", "Década de 70"],
+    "ano": 1958,
+    "link": "https://pt.wikipedia.org/wiki/Grandmaster_Flash"
+},
+{
+    "nome": "Afrika Bambaataa",
+    "tipo": "Artista",
+    "descricao": "DJ, rapper, compositor e produtor americano do Bronx, Nova York. É um dos criadores do breakbeat DJing e é respeitosamente conhecido como o 'Padrinho' da cultura Hip Hop.",
+    "relacionados": ["Hip Hop", "Década de 70"],
+    "ano": 1957,
+    "link": "https://pt.wikipedia.org/wiki/Afrika_Bambaataa"
+},
+{
+    "nome": "Kurt Cobain",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor e músico americano. Foi o guitarrista, vocalista e principal compositor da banda de rock Nirvana, tornando-se um ícone da Geração X.",
+    "relacionados": ["Nirvana", "Década de 90"],
+    "ano": 1967,
+    "link": "https://pt.wikipedia.org/wiki/Kurt_Cobain"
+},
+{
+    "nome": "Krist Novoselic",
+    "tipo": "Artista",
+    "descricao": "Músico e ativista político americano, mais conhecido como o baixista e co-fundador da banda de rock Nirvana.",
+    "relacionados": ["Nirvana", "Década de 90"],
+    "ano": 1965,
+    "link": "https://pt.wikipedia.org/wiki/Krist_Novoselic"
+},
+{
+    "nome": "Dave Grohl",
+    "tipo": "Artista",
+    "descricao": "Músico de rock americano, cantor, compositor e diretor de cinema. Ganhou fama como o baterista do Nirvana e, posteriormente, fundou a banda Foo Fighters, onde é vocalista e guitarrista.",
+    "relacionados": ["Nirvana", "Década de 90"],
+    "ano": 1969,
+    "link": "https://pt.wikipedia.org/wiki/Dave_Grohl"
+},
+{
+    "nome": "Guy-Manuel de Homem-Christo",
+    "tipo": "Artista",
+    "descricao": "Músico, produtor, cantor, compositor e DJ francês, mais conhecido por ser metade do duo de música eletrônica Daft Punk, ao lado de Thomas Bangalter.",
+    "relacionados": ["Daft Punk", "Década de 90"],
+    "ano": 1974,
+    "link": "https://pt.wikipedia.org/wiki/Guy-Manuel_de_Homem-Christo"
+},
+{
+    "nome": "Thomas Bangalter",
+    "tipo": "Artista",
+    "descricao": "Músico, produtor, cantor, compositor e DJ francês, mais conhecido por ser metade do duo de música eletrônica Daft Punk, ao lado de Guy-Manuel de Homem-Christo.",
+    "relacionados": ["Daft Punk", "Década de 90"],
+    "ano": 1975,
+    "link": "https://pt.wikipedia.org/wiki/Thomas_Bangalter"
+},
+{
+    "nome": "Cartola",
+    "tipo": "Artista",
+    "descricao": "Cantor, compositor, poeta e violonista brasileiro, considerado por muitos o maior sambista da história da música brasileira. Foi um dos fundadores da Estação Primeira de Mangueira.",
+    "relacionados": ["Samba", "Década de 10"],
+    "ano": 1908,
+    "link": "https://pt.wikipedia.org/wiki/Cartola_(compositor)"
+},
+{
+    "nome": "Nelson Cavaquinho",
+    "tipo": "Artista",
+    "descricao": "Importante músico e compositor brasileiro. Sambista de estilo único, conhecido por suas letras melancólicas e sua forma peculiar de tocar cavaquinho e violão.",
+    "relacionados": ["Samba", "Década de 10"],
+    "ano": 1911,
+    "link": "https://pt.wikipedia.org/wiki/Nelson_Cavaquinho"
+},
+{
+    "nome": "Noel Rosa",
+    "tipo": "Artista",
+    "descricao": "Sambista, cantor, compositor, bandolinista, violonista brasileiro e um dos maiores e mais importantes artistas da música brasileira. Deu um novo rumo ao samba, com letras que eram crônicas do cotidiano.",
+    "relacionados": ["Samba", "Década de 10"],
+    "ano": 1910,
+    "link": "https://pt.wikipedia.org/wiki/Noel_Rosa"
+},
+{
+    "nome": "Zeca Pagodinho",
+    "tipo": "Artista",
+    "descricao": "Cantor e compositor brasileiro, um dos maiores nomes do samba contemporâneo. Conhecido por seu estilo descontraído e por popularizar o subgênero do pagode.",
+    "relacionados": ["Samba"],
+    "ano": 1959,
+    "link": "https://pt.wikipedia.org/wiki/Zeca_Pagodinho"
+},
+{
+    "nome": "Alex Turner",
+    "tipo": "Artista",
+    "descricao": "Músico, cantor e compositor inglês. É o vocalista, guitarrista e principal letrista da banda de rock Arctic Monkeys.",
+    "relacionados": ["Arctic Monkeys", "Década de 2000"],
+    "ano": 1986,
+    "link": "https://pt.wikipedia.org/wiki/Alex_Turner"
+},
+{
+    "nome": "Jamie Cook",
+    "tipo": "Artista",
+    "descricao": "Guitarrista e compositor inglês, mais conhecido como membro fundador da banda de rock Arctic Monkeys.",
+    "relacionados": ["Arctic Monkeys", "Década de 2000"],
+    "ano": 1985,
+    "link": "https://pt.wikipedia.org/wiki/Jamie_Cook"
+},
+{
+    "nome": "Matt Helders",
+    "tipo": "Artista",
+    "descricao": "Baterista, vocalista e compositor inglês, mais conhecido como membro fundador da banda de rock Arctic Monkeys. Seu estilo de bateria é uma marca registrada do som da banda.",
+    "relacionados": ["Arctic Monkeys", "Década de 2000"],
+    "ano": 1986,
+    "link": "https://pt.wikipedia.org/wiki/Matt_Helders"
+},
+{
+    "nome": "Nick O'Malley",
+    "tipo": "Artista",
+    "descricao": "Músico inglês, mais conhecido como o baixista da banda de rock Arctic Monkeys, à qual se juntou em 2006.",
+    "relacionados": ["Arctic Monkeys", "Década de 2000"],
+    "ano": 1985,
+    "link": "https://pt.wikipedia.org/wiki/Nick_O%27Malley"
+},
+{
+    "nome": "Donna Summer",
+    "tipo": "Artista",
+    "descricao": "Cantora, compositora e atriz norte-americana, que alcançou a fama durante a era da disco music, sendo apelidada de 'Rainha da Disco'.",
+    "relacionados": ["Disco", "Década de 70"],
+    "ano": 1948,
+    "link": "https://pt.wikipedia.org/wiki/Donna_Summer"
+},
+{
+    "nome": "Giorgio Moroder",
+    "tipo": "Artista",
+    "descricao": "Produtor musical e compositor italiano, pioneiro da disco music e da música eletrônica. Seu trabalho com Donna Summer, como em 'I Feel Love', revolucionou a dance music.",
+    "relacionados": ["Disco", "Década de 70"],
+    "ano": 1940,
+    "link": "https://pt.wikipedia.org/wiki/Giorgio_Moroder"
+},
+{
+    "nome": "Frankie Knuckles",
+    "tipo": "Artista",
+    "descricao": "DJ e produtor musical americano, conhecido como o 'Padrinho da House Music'. Foi fundamental no desenvolvimento e popularização do gênero em Chicago nos anos 80.",
+    "relacionados": ["House", "Década de 80"],
+    "ano": 1955,
+    "link": "https://pt.wikipedia.org/wiki/Frankie_Knuckles"
+},
+{
+    "nome": "Larry Levan",
+    "tipo": "Artista",
+    "descricao": "DJ americano mais conhecido por sua residência no clube Paradise Garage, em Nova York. Seu estilo eclético e inovador influenciou profundamente a dance music e a cultura de clube.",
+    "relacionados": ["House", "Década de 80"],
+    "ano": 1954,
+    "link": "https://pt.wikipedia.org/wiki/Larry_Levan"
+},
+{
+    "nome": "Marshall Jefferson",
+    "tipo": "Artista",
+    "descricao": "Músico e produtor americano, uma das figuras centrais no desenvolvimento da Chicago house. É conhecido por produzir o hino da house music 'Move Your Body'.",
+    "relacionados": ["House", "Década de 80"],
+    "ano": 1959,
+    "link": "https://pt.wikipedia.org/wiki/Marshall_Jefferson"
+},
+{
+    "nome": "Elton John",
+    "tipo": "Artista",
+    "descricao": "Cantor, pianista e compositor britânico. Um dos artistas de maior sucesso de todos os tempos, conhecido por seus hits de pop rock, baladas e performances extravagantes.",
+    "relacionados": ["Pop Rock", "Década de 70"],
+    "ano": 1947,
+    "link": "https://pt.wikipedia.org/wiki/Elton_John"
+},
+{
+    "nome": "Maroon 5",
+    "tipo": "Banda",
+    "descricao": "Banda americana de pop rock que combina elementos de funk e soul. Conhecida por seus hits cativantes e pela voz característica do vocalista Adam Levine.",
+    "relacionados": ["Pop Rock"],
+    "ano": 1994,
+    "link": "https://pt.wikipedia.org/wiki/Maroon_5"
+},
+{
+    "nome": "Ice Blue",
+    "tipo": "Artista",
+    "descricao": "Rapper brasileiro, um dos quatro membros fundadores do influente grupo de rap Racionais MC's.",
+    "relacionados": ["Racionais MC's", "Década de 90"],
+    "ano": 1969,
+    "link": "https://pt.wikipedia.org/wiki/Ice_Blue"
+},
+{
+    "nome": "Edi Rock",
+    "tipo": "Artista",
+    "descricao": "Rapper e compositor brasileiro, membro fundador do grupo Racionais MC's, um dos mais importantes do cenário do rap nacional.",
+    "relacionados": ["Racionais MC's", "Década de 90"],
+    "ano": 1970,
+    "link": "https://pt.wikipedia.org/wiki/Edi_Rock"
+},
+{
+    "nome": "KL Jay",
+    "tipo": "Artista",
+    "descricao": "DJ e produtor brasileiro, conhecido por ser o DJ do grupo de rap Racionais MC's. É uma figura fundamental na construção sonora do grupo.",
+    "relacionados": ["Racionais MC's", "Década de 90"],
+    "ano": 1969,
+    "link": "https://pt.wikipedia.org/wiki/KL_Jay"
+}
+]
