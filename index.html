@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Enciclopédia Musical</title>
+</head>
+<body>
+  <header>
+    <div class="header-titulo">
+      <h1>Enciclopédia Musical</h1>
+      <p class="subtitulo">Pesquisa Inteligente</p>
+    </div>
+    <div id="caixa-busca">
+        <input id="campo-busca" type="text" placeholder="Digite uma década, um estilo ou uma banda">
+        <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        <button id="botao-limpar" onclick="limparBusca()">Limpar</button>
+    </div>
+  </header>
+  
+  <main>
+    <section id="resultados-busca" class="card-container">
+        <!-- Resultados aparecerão aqui -->
+    </section>
+  </main>
+
+  <footer class="footer">
+    <ul class="footer-links">
+        <li>
+            <a href="https://www.linkedin.com/in/marcusguedes">linkedin</a>
+        </li>
+        <li>
+            <a href="https://github.com/MCLG1661">github</a>
+        </li>
+        <li>
+            <a href="https://portfolio-update-buddy.lovable.app/">lovable</a>
+        </li>
+    </ul>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
