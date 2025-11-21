@@ -124,7 +124,6 @@ div input:focus {
 }
 
 main {
-    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura. */
     max-width: 80rem; /* Define a largura máxima do conteúdo principal. */
     margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente. */
     margin-top: 2rem; /* Adiciona uma margem no topo. */
@@ -132,18 +131,19 @@ main {
 }
 
 article {
-    background: var(--card-bg-color); /* Define o fundo cinza claro para o card. */
+    background: linear-gradient(145deg, #ffffff, #eef2f7); /* Gradiente suave para dar profundidade. */
     border-radius: 8px; /* Remove o arredondamento das bordas. */
     padding: 1.5rem; /* Define o espaçamento interno nos lados. */
     margin-bottom: 1.25rem; /* Adiciona uma margem na parte inferior. */
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* Sombra sutil para o card. */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Adiciona uma transição suave. */
-    border: 1px solid #dee2e6; /* Borda sutil para o card. */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* Sombra mais pronunciada para destacar. */
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease; /* Adiciona transição para a cor da borda. */
+    border: 2px solid transparent; /* Borda transparente que ficará colorida no hover. */
 }
 
 article:hover {
     transform: translateY(-5px); /* Efeito de levantar ao passar o mouse. */
     cursor: pointer; /* Muda o cursor para uma mão para indicar que é interativo. */
+    border-color: var(--header-bg); /* A borda fica azul ao passar o mouse. */
 }
 
 article h2 {
