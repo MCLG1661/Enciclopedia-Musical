@@ -42,9 +42,7 @@ Um projeto dedicado a organizar e compartilhar conhecimento sobre artistas, esti
 - Dados: JSON para estrutura da base de conhecimento
 
 ## 📁 Estrutura do Projeto
-text
-enciclopedia-musical/
-│
+
 ├── index.html          # Página principal
 ├── style.css           # Estilos da aplicação
 ├── script.js           # Lógica JavaScript
