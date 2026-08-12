@@ -11,6 +11,8 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Acessar_Aplicação-2ea44f)](https://enciclopedia-musical.vercel.app/)
 
 ---
 
@@ -196,6 +198,7 @@ Este projeto explora conceitos relacionados a :
 ## 👤 Autor
 
 Marcus Guedes
+
 Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
 
 GitHub: https://github.com/MCLG1661
