@@ -196,7 +196,6 @@ Este projeto explora conceitos relacionados a :
 ## 👤 Autor
 
 Marcus Guedes
-
 Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
 
 GitHub: https://github.com/MCLG1661
