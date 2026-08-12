@@ -1,6 +1,6 @@
 # Enciclopédia Musical
 
-Aplicação Web para Exploração de Artistas, Estilos, Décadas e História da Música
+*Aplicação Web para Exploração de Artistas, Estilos, Décadas e História da Música*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,6 +11,24 @@ Aplicação Web para Exploração de Artistas, Estilos, Décadas e História da 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
+
+---
+
+## 🌐 Aplicação Online
+
+🚀 **[Acesse a Enciclopédia Musical](https://enciclopedia-musical.vercel.app/)**
+
+A aplicação está publicada na **Vercel** e pode ser utilizada diretamente pelo navegador.
+
+---
+
+## 💼 Contexto do Projeto
+
+**Enciclopédia Musical** é uma aplicação web desenvolvida para organizar e disponibilizar informações sobre artistas, bandas, estilos musicais, festivais e diferentes períodos da história da música.
+O projeto utiliza uma base de dados estruturada em **JSON** e uma interface desenvolvida com **HTML, CSS e JavaScript**, permitindo realizar pesquisas e explorar conteúdos musicais de forma dinâmica e intuitiva.
+Projeto desenvolvido a partir da **Imersão Dev — Alura**, aplicando conceitos de desenvolvimento Front-end, manipulação de dados e construção de interfaces interativas.
+
+---
 
 ## ✨ Funcionalidades
 
