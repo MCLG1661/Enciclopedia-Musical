@@ -146,11 +146,17 @@ Exploração do Conteúdo
 ## 🛠️ Tecnologias Utilizadas
 
 **HTML5** - Estrutura da APlicação
+
 **CSS3** - Estilização e Responsividade
+
 **JavaScript (ES6+)** - Lógica, Pesquisa e Interação
+
 **JSON** - Estruturação da Base de Dados Musicais
+
 **CSS Grid** - Organização dos Componentes
+
 **Flexbox** - Construção de Layouts Felxíveis
+
 **Vercel** - Deploy e Disponibilização Pública
 
 ---
