@@ -9,7 +9,6 @@ Aplicação Web para Exploração de Artistas, Estilos, Décadas e História da 
 ![Google Code Assist](https://img.shields.io/badge/Google%20Code%20Assist-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini Generated](https://img.shields.io/badge/Gemini%20Generated-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-
 ![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
 ![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
 
