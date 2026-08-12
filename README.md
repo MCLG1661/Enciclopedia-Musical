@@ -121,10 +121,15 @@ Exploração do Conteúdo
 ## 🎼 Conteúdo Disponível
 
 🎸 **Bandas Históricas** - The Beatles, Queen, Nirvana e mais
+
 🎹 **Estilos Musicais** - Rock, Bossa Nova, Hip Hop, Eletrônica
+
 🎤 **Artistas & DJs** - Nacionais e internacionais
+
 🎪 **Festivais Mundiais** - Coachella, Rock in Rio, Tomorrowland
+
 📻 **História Musical** - Décadas de 50 até os dias atuais
+
 🔍 **Explore os Resultados** - Clique nos cards para ver informações detalhadas
 
 ---
