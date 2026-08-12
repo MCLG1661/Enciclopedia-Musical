@@ -109,8 +109,11 @@ Exploração do Conteúdo
 ## ✨ Funcionalidades
 
 🔍 **Pesquisa Avançada** - Pesquise por décadas, estilos musicais, bandas ou artistas
+
 📊 **Análise de Dados** - Estatísticas e insights musicais
+
 📚 **Base de Dados** - Informações sobre diversos gêneros musicais e artistas
+
 ⚡ **Performance Otimizada** - Carregamento rápido e experiência fluida
 
 ---
