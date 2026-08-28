@@ -6,8 +6,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive Web Design](https://img.shields.io/badge/Responsive-Web%20Design-0ea5e9)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
-
 
 ---
 
