@@ -19,6 +19,18 @@ A aplicação está publicada na **Vercel** e pode ser utilizada diretamente pel
 
 ---
 
+## 🖼️ Preview da Aplicação
+
+### Tela principal
+
+![Tela principal da Enciclopédia Musical](assets/screenshots/enciclopedia-home.png)
+
+### Pesquisa e exploração de conteúdo
+
+![Resultados de pesquisa da Enciclopédia Musical](assets/screenshots/enciclopedia-search.png)
+
+---
+
 ## 💼 Sobre o Projeto
 
 A **Enciclopédia Musical** é uma aplicação web desenvolvida para organizar e disponibilizar informações sobre diferentes dimensões da música, reunindo artistas, bandas, DJs, estilos, décadas e festivais em uma experiência de pesquisa e exploração de conteúdo.
