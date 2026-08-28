@@ -23,11 +23,11 @@ A aplicação está publicada na **Vercel** e pode ser utilizada diretamente pel
 
 ### Tela principal
 
-![Tela principal da Enciclopédia Musical](assets/screenshots/enciclopedia-home.png)
+![Tela principal da Enciclopédia Musical](assets/enciclopedia-home.png)
 
 ### Pesquisa e exploração de conteúdo
 
-![Resultados de pesquisa da Enciclopédia Musical](assets/screenshots/enciclopedia-search.png)
+![Resultados de pesquisa da Enciclopédia Musical](assets/enciclopedia-search.png)
 
 ---
 
