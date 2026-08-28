@@ -6,10 +6,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Repo](https://img.shields.io/badge/Enciclopédia_Musical-🎵-8B5CF6 )
-![Music](https://img.shields.io/badge/Music-Research-3B82F6 )
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Acessar_Aplicação-2ea44f)](https://enciclopedia-musical.vercel.app/)
+
 
 ---
 
